@@ -1,0 +1,13 @@
+---
+title: "aug31"
+format: html
+editor: visual
+---
+
+## In Class Exercise 
+
+```{r}
+library(tidyverse)
+
+```
+
